@@ -1,4 +1,4 @@
-# package_name
+# murilo-teste-pacote
 
 Description. 
 The package murilo-teste-pacote is used to:
